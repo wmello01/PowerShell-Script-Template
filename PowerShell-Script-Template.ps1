@@ -36,7 +36,7 @@ $ErrorActionPreference = "SilentlyContinue"
 #----------------------------------------------------------[Declarations]----------------------------------------------------------
 
 #Script Version
-$sScriptVersion = "1.0"
+#$sScriptVersion = "1.0"
 
 #Script Name
 $scriptName = $MyInvocation.MyCommand.Name
